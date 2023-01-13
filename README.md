@@ -1,5 +1,5 @@
 # Lente
-[<img src="Lente%20Logo%20with%20Tagline.png">](http://example.com/](https://github.com/)
+<img src="Lente%20Logo%20with%20Tagline.png">(https://github.com/)
 
 
 ## Solution Details
