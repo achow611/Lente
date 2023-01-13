@@ -1,5 +1,5 @@
 # Lente
-<img src="Lente%20Logo%20with%20Tagline.png">(https://github.com/)
+<img src="Lente%20Logo%20with%20Tagline.png" width = "200">
 
 
 ## Solution Details
