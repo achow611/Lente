@@ -36,7 +36,7 @@ Authors: Alannah Hoops, Allan Huang, Angelica Chow, Elyse Muir, Lara Brooks, Xi 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/achow611/Lente Logo with Tagline.png">
+  <a href="https://github.com/achow611/Lente Logo with Tagline.png](https://github.com/achow611/Lente/blob/main/Lente%20Logo%20with%20Tagline.png">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
