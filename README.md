@@ -13,7 +13,7 @@ Click [here](https://lente.squarespace.com/) to access our prototype.
 ## Technical Details
 Using our background in Sustainability Management, we have analyzed the different certifications in the fashion industry. Sustainability does not include just environmental impacts but also social and governance impacts. Therefore, we looked at certifications that would indicate fashion organizations that not only limit their environmental harm, but ones that also aim to benefit the environment such as using a portion of their profit towards afforestation and carbon removal projects. The certification should also show that the organization is treating their employees as well as those involved in the entire supply chain process are treated equitably and fair. The organizations should also be transparent with their sustainability metrics and operations. From our research, we found the B Corp certification to be the most holistic and great starting point to indicate an organizations' sustainability performance. Therefore, we are starting with B Corp apparel companies from Canada on our marketplace. From there, we will expand to other certifications as well as other countries.
 
-
+In our prototype website, we have added the sixteen B Corp apparel brands in Canada. The user can browse through the website and either 'Shop by Brand' or 'Shop by Category.' 
 
 ## Authors
 Alannah Hoops, Allan Huang, Angelica Chow, Elyse Muir, Lara Brooks, Xi Shao
