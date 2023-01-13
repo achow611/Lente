@@ -16,11 +16,10 @@ Using our background in Sustainability Management, we have analyzed the differen
 In our prototype website, we have added the sixteen B Corp apparel brands in Canada. The user can browse through the website and either 'Shop by Brand' or 'Shop by Category.' When a user goes to an apparel item, they can see details about the item including the sustainability certification that the item holds. For customization, the user can have an option to add the item to a wishlist, see other items they might like, or purchase the item. For now, purchasing the item leads them to the checkout website of the apparel company. However, we are in the works of talking to smaller B Corp brands that would be interested in partnerning with us. From there, the checkout can happen directly on our end. 
   
 We have also designed wireframes of what we would like the website to look like based on user feedback.
-  
-Example of item on Lente website
+<img src="lente.squarespace.com_.png" width = "500">  
+<img src="lente.squarespace.com_shop.png" width = "500">
 <img src="lente.squarespace.com_mockproductpage.png" width = "500">
 
-[Link to wireframe documents]
 
 ## Authors
 Alannah Hoops, Allan Huang, Angelica Chow, Elyse Muir, Lara Brooks, Xi Shao
