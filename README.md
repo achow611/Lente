@@ -1,5 +1,5 @@
 <p align="center">
-  # Lente
+# Lente
 <img src="Lente%20Logo%20with%20Tagline.png" width = "200">
 
 
