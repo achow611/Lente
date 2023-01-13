@@ -1,5 +1,4 @@
 <p align="center">
-# Lente
 <img src="Lente%20Logo%20with%20Tagline.png" width = "200">
 
 
@@ -19,4 +18,6 @@ Using our background in Sustainability Management, we have analyzed the differen
 ## Authors
 Alannah Hoops, Allan Huang, Angelica Chow, Elyse Muir, Lara Brooks, Xi Shao
 
-
+## Acknowledgements
+* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#file-readme-template-md) README Template ideas
+* [Othneildrew](https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md) for README Template ideas
